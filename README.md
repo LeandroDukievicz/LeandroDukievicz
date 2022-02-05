@@ -6,8 +6,8 @@
 <img src="https://pin.it/2XIRoYs"/>
   </div>
 <div align="center">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=merko"/>
-  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=merko"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
   
 #
