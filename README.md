@@ -9,18 +9,18 @@
 #
 
 <div align = "center">
-  <h2> Cursando Tecnólogo em Sistema para Internet  na Unicesumar  
+  <h2> Tecnólogo em Sistema para Internet  na Unicesumar  
   e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
   </h2>
   
   <a align ="left" href="https://www.unicesumar.edu.br/home/">
   <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/>
   </a>  
-  <img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg"/>
+  
    <a align = "center " href="https://www.dio.me/">
       <img height ="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/dio.png"/>
   </a>
-    <img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg"/>
+   
    <a align= "right " href="https://tiacademybrasil.com.br/">
      <img height ="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/ti%20academy.jpg"/>
    </a>
