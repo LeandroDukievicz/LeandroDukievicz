@@ -1,4 +1,6 @@
-##                    Olá, Tudo Bem ???   🖖                [![contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5544920010649&text=Ol%C3%A1%20%2C%20tudo%20bem%20%3F)     [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-dukievicz-02b993218/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodukievicz1718@gmail.com)
+
+
+Olá, Tudo Bem ???   🖖                [![contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5544920010649&text=Ol%C3%A1%20%2C%20tudo%20bem%20%3F)     [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-dukievicz-02b993218/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodukievicz1718@gmail.com)
 ### Acesse meu [CV Digital](https://personal.myskills.com.br/#/perfil/1848818)
 
 
@@ -81,7 +83,17 @@
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   </div>
+ 
+ #
   
+![GitHub followers](https://img.shields.io/github/followers/LeandroDukievicz?style=social)
+![visitors](https://img.shields.io/github/watchers/LeandroDukievicz/LeandroDukievicz.svg)
+![stars](https://img.shields.io/github/stars/LeandroDukievicz.svg)
+![forks](https://img.shields.io/github/forks/LeandroDukievicz/LeandroDukievicz.svg)
+![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
+![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+![vs](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+
  
 
 
