@@ -92,7 +92,7 @@
 ![forks](https://img.shields.io/github/forks/LeandroDukievicz/LeandroDukievicz.svg)
 ![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![vs](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+
 
  
 
