@@ -93,7 +93,9 @@
 ![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
-
+<p align="center">
+  <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
  
 
 
