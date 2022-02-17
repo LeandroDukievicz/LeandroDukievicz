@@ -62,7 +62,7 @@
 #### Estas são as linguagens que estou em aprendizado no momento, vou continuar atualizando com projetos conforme for praticando...
 
 <div>
-   <img height ="120" align="right"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/code-coding.gif"/>
+  
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
