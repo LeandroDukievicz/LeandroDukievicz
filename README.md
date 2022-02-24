@@ -1,6 +1,10 @@
-<div  align="center">
-<img  height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/24z.gif"/>
-  </div>
+<div align="center" >
+<img align="" height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/18Ua-unscreen.gif"/>
+  <img  align="left" height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/IMG-0527-unscreen.gif"/>
+<img  align="right"height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/IMG-0532-unscreen.gif"/>  
+</div>
+  
+  
   
 
 
@@ -21,7 +25,7 @@
 
 
 <div  align="center">
-<img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/leandro-2.gif"/>
+<img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gitprofile.gif"/>
   </div>
   
 #
