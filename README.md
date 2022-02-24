@@ -23,8 +23,8 @@
 
 
 
-<div height= "100em" align="center">
-<img src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/ld%20(1).gif"/>
+<div  align="center">
+<img width = "800em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/ld%20(1).gif"/>
   </div>
   
 #
