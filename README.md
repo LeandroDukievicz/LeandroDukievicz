@@ -62,7 +62,7 @@
 #### Estas são as linguagens que estou em aprendizado no momento, vou continuar atualizando com projetos conforme for praticando...
 
 <div>
-   <img height ="120" align="right"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/code-coding.gif"/>
+  
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -95,14 +95,18 @@
 #
 
 ### Sistemas Operacionais e Principais IDE'S:
-  <div>
-     <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;&ensp;
-     <img  height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;&ensp;
-     <img  height ="80" src= "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/apple3.png"/>&ensp;&ensp;
-     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;&ensp;
+  <div align= "justified">
+     <img  height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
+     <img  height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
+     <img  height ="80" src= "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/apple3.png"/>&ensp;
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+     
   </div>
- 
+  
+
+
+  
  #
   
 ![GitHub followers](https://img.shields.io/github/followers/LeandroDukievicz?style=social)
@@ -111,6 +115,10 @@
 ![forks](https://img.shields.io/github/forks/LeandroDukievicz/LeandroDukievicz.svg)
 ![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+  
+#
+  
+  <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
 
 <p align="center">
   <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
