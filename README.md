@@ -24,7 +24,7 @@
 
 
 <div  align="center">
-<img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/ld%20(1).gif"/>
+<img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/leandro-2.gif"/>
   </div>
   
 #
