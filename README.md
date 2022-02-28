@@ -1,3 +1,11 @@
+ 
+  <h3 align="center"> Total visits on my profile :detective:</h3>
+
+ <div align="center">
+ <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
+  </div>
+
+
 <div align="center" >
 <img align="" height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/18Ua-unscreen.gif"/>
   <img  align="left" height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/IMG-0527-unscreen.gif"/>
@@ -20,6 +28,7 @@
 </p>
 
 #
+
 
 
 
@@ -124,7 +133,9 @@
 <p align="center">
   <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
- 
+
+
+
 
 
 
