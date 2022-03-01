@@ -1,4 +1,6 @@
- 
+  <div align="center">
+  <h2>Obrigado por estar aqui... Espero que goste e fique à vontade!!!</h2>
+  </div>
   <h3 align="center"> Total visits on my profile :detective:</h3>
 
  <div align="center">
