@@ -1,3 +1,4 @@
+ 
   <div align="center">
   <h2>Obrigado por estar aqui... Espero que goste e fique à vontade!!!</h2>
   </div>
@@ -29,7 +30,7 @@
   </code>
 </p>
 
-#
+
 
 
 
@@ -39,12 +40,13 @@
 <img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gitprofile.gif"/>
   </div>
   
-#
+
 
 <div align = "center">
   <h2> Tecnólogo em Sistema para Internet  na Unicesumar  
   e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
   </h2>
+ 
   
   <a align ="left" href="https://www.unicesumar.edu.br/home/">
   <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/> &ensp; &ensp;
@@ -59,7 +61,7 @@
    </a>
   <div/>
 
-  #
+ 
  
   Tecnologias usadas recentemente:
 <div align="center">
@@ -119,7 +121,7 @@
 
 
   
- #
+ ![](https://i.imgur.com/waxVImv.png)
   
 ![GitHub followers](https://img.shields.io/github/followers/LeandroDukievicz?style=social)
 ![visitors](https://img.shields.io/github/watchers/LeandroDukievicz/LeandroDukievicz.svg)
@@ -128,7 +130,7 @@
 ![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
   
-#
+![](https://i.imgur.com/waxVImv.png)
   
   <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
 
