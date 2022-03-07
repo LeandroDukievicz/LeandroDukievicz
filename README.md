@@ -127,7 +127,7 @@
 ![visitors](https://img.shields.io/github/watchers/LeandroDukievicz/LeandroDukievicz.svg)
 ![stars](https://img.shields.io/github/stars/LeandroDukievicz.svg)
 ![forks](https://img.shields.io/github/forks/LeandroDukievicz/LeandroDukievicz.svg)
-![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
+
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
   
 ![](https://i.imgur.com/waxVImv.png)
