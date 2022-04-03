@@ -121,12 +121,7 @@
 
 
   
- ![](https://i.imgur.com/waxVImv.png)
-  
-![GitHub followers](https://img.shields.io/github/followers/LeandroDukievicz?style=social)
-![visitors](https://img.shields.io/github/watchers/LeandroDukievicz/LeandroDukievicz.svg)
-![stars](https://img.shields.io/github/stars/LeandroDukievicz.svg)
-![forks](https://img.shields.io/github/forks/LeandroDukievicz/LeandroDukievicz.svg)
+
 
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
   
