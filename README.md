@@ -1,6 +1,21 @@
-<div  align="center">
-<img  height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/24z.gif"/>
+ 
+  <div align="center">
+  <h2>Obrigado por estar aqui... Espero que goste e fique à vontade!!!</h2>
   </div>
+  <h3 align="center"> Total visits on my profile :detective:</h3>
+
+ <div align="center">
+ <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
+  </div>
+
+
+<div align="center" >
+<img align="" height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/18Ua-unscreen.gif"/>
+  <img  align="left" height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/IMG-0527-unscreen.gif"/>
+<img  align="right"height= "120em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/IMG-0532-unscreen.gif"/>  
+</div>
+  
+  
   
 
 
@@ -15,21 +30,23 @@
   </code>
 </p>
 
-#
+
+
 
 
 
 
 <div  align="center">
-<img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/leandro-2.gif"/>
+<img  width = "750em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gitprofile.gif"/>
   </div>
   
-#
+
 
 <div align = "center">
   <h2> Tecnólogo em Sistema para Internet  na Unicesumar  
   e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
   </h2>
+ 
   
   <a align ="left" href="https://www.unicesumar.edu.br/home/">
   <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/> &ensp; &ensp;
@@ -44,7 +61,7 @@
    </a>
   <div/>
 
-  #
+ #
  
   Tecnologias usadas recentemente:
 <div align="center">
@@ -104,23 +121,20 @@
 
 
   
- #
-  
-![GitHub followers](https://img.shields.io/github/followers/LeandroDukievicz?style=social)
-![visitors](https://img.shields.io/github/watchers/LeandroDukievicz/LeandroDukievicz.svg)
-![stars](https://img.shields.io/github/stars/LeandroDukievicz.svg)
-![forks](https://img.shields.io/github/forks/LeandroDukievicz/LeandroDukievicz.svg)
-![downs](https://img.shields.io/github/downloads/LeandroDukievicz/LeandroDukievicz/total.svg)
+
+
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
   
-#
+![](https://i.imgur.com/waxVImv.png)
   
   <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
 
 <p align="center">
   <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
- 
+
+
+
 
 
 
