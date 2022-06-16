@@ -84,15 +84,7 @@
 
 #
 
-### Sistemas Operacionais e Principais IDE'S:
-  <div align= "justified">
-     <img  height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
-     <img  height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
-     <img  height ="80" src= "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/apple3.png"/>&ensp;
-     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
-     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-     
-  </div>
+
  
   
 ![mk](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
