@@ -48,8 +48,8 @@
  
 
 #
-## Linguagens : 
-#### Estas são as linguagens que estou em aprendizado no momento, vou continuar atualizando com projetos conforme for praticando...
+## Linguagens/Frameoworks e Ferramentas: 
+#### Estas são as linguagens e as ferramentas que estou em aprendizado no momento, vou continuar atualizando com projetos conforme for praticando...
 
 <div>
   
