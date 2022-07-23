@@ -76,7 +76,6 @@
  <div align="center">
     <img height= "40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/circuitfx_directions.gif"/>
     <img height= "40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/circuitfx_directions.gif"/>
-    <img height= "40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/circuitfx_directions.gif"/>
  </div>
  
 
