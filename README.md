@@ -72,20 +72,21 @@
     <h1>Projetos:</h1>
 </div>
 
+[1 - Atividades Back End PHP](https://github.com/LeandroDukievicz/back-end-1)
 
-[1 - Clone Netflix](https://github.com/LeandroDukievicz/cloneNetflix/tree/main/netflix) 
+[2 - Módulo Front End ](https://github.com/LeandroDukievicz/Mod52_frontend) &nbsp;&nbsp;&nbsp;[#01](https://leandrodukievicz.github.io/Mod52_frontend/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#02](https://62c4bcbba7a0bc402869f05e--gregarious-liger-791987.netlify.app/)
 
-[2 - Desafio Kitanda](https://github.com/LeandroDukievicz/Desafio-Kitanda)
+[3 - Clone Netflix](https://github.com/LeandroDukievicz/cloneNetflix/tree/main/netflix) 
 
-[3 - Cards](https://leandrodukievicz.github.io/cardsMatrix/)
+[4 - Desafio Kitanda](https://github.com/LeandroDukievicz/Desafio-Kitanda)
 
-[4 - Busca Cep](https://github.com/LeandroDukievicz/desafioMeAcha-JS)
+[5 - Cards](https://leandrodukievicz.github.io/cardsMatrix/)
 
-[5 - Dr. Pinguim Portifólio](https://doctor-pinguim-portifolio.vercel.app/portifolio.html) &nbsp;&nbsp;&nbsp; [Repo](https://github.com/LeandroDukievicz/DoctorPinguimPortifolio)
+[6 - Busca Cep](https://github.com/LeandroDukievicz/desafioMeAcha-JS)
 
-[6 - Módulo Front End ](https://github.com/LeandroDukievicz/Mod52_frontend) &nbsp;&nbsp;&nbsp;[#01](https://leandrodukievicz.github.io/Mod52_frontend/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#02](https://62c4bcbba7a0bc402869f05e--gregarious-liger-791987.netlify.app/)
+[7 - Dr. Pinguim Portifólio](https://doctor-pinguim-portifolio.vercel.app/portifolio.html) &nbsp;&nbsp;&nbsp; [Repo](https://github.com/LeandroDukievicz/DoctorPinguimPortifolio)
 
-[7 - Busca Cep ](https://github.com/LeandroDukievicz/desafioMeAcha-JS)
+[8 - Busca Cep ](https://github.com/LeandroDukievicz/desafioMeAcha-JS)
 
 
 
