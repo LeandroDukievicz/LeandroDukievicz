@@ -33,7 +33,7 @@
 <section align="center">
   <h2 align="center"> Tecnologias usadas recentemente:</h2>
   <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=merko"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]    (https://github.com/anuraghazra/github-readme-stats"/>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]https://github.com/anuraghazra/github-readme-stats"/>
 </section>
  
 #
