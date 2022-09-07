@@ -9,7 +9,7 @@
 
 <div align="center">
       <img height ="350" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/js.gif"/>
-</div>
+
 
 <p align="center">
   <code>
@@ -17,6 +17,8 @@
     <i align="left">  Amyr Klink.</i>
   </code>
 </p>
+
+
 
 #
 
@@ -31,10 +33,14 @@
  #
  
 <section align="center">
-  <h2 align="center"> Tecnologias usadas recentemente:</h2>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=merko"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]https://github.com/anuraghazra/github-readme-stats"/>
+  <h2 align="center"> Informações do Perfil:</h2>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=tokyonight"/>
+  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]https://github.com/radical/github-readme-stats"/><br>
 </section>
+
+### :fire:  Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><a href="http://www.github.com/LeandroDukievicz"><img src="https://activity-graph.herokuapp.com/graph?username=LeandroDukievicz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
 #
 
