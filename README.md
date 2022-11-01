@@ -15,7 +15,14 @@
   <code>
      <i> “Um dia é preciso parar de sonhar, tirar os planos da gaveta e, de algum modo, começar” –  </i> 
     <i align="left">  Amyr Klink.</i>
-  </code>
+         </code>
+      <br>
+        
+   <code>     
+    <i> “Não tenho nenhum talento especial, sou apenas apaixonadamente curioso - ” –  </i> 
+    <i align="left">  Albert Einsten .</i>
+          </code>
+ 
 </p>
 
 
