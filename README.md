@@ -36,11 +36,14 @@
 
 <div align = "center">
     <h2 align="center">Contatos : </h2>
-    <a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-    <a href="https://www.linkedin.com/in/leandrodukievicz/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-    <a href="mailto:leandrodukievicz1718@gmail.com" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-   <img height = "100em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/qrcode.jpg"/>
+        <a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img height="80em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/leandrodukievicz/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<img height = "100em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/qrcode.jpg"/>
+        
+        
+        
+        
+   
 </div>
+        
 
  #
  
