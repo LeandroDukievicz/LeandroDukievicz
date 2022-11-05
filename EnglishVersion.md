@@ -5,6 +5,9 @@
     
 <div align = "center">
     <h1>Hello ! Welcome to my Profile
+          <h2>About me </h2>
+    <p>I'm an extremely curious guy, I like to research and understand why things, I've always had a lot of affinity and I've always been very close to emerging technologies and recently to gadgets and Iot, as my financial resources allow, I'm always acquiring new gadgets and things related to technology, I decided to migrate to this area, because I definitely found myself in it, I still get a lot to learn, but I am in a constant linear learning, and I will not stop until I achieve my stipulated targets and goals, being the first of the goals, getting your first job in the tech field.</p><br>
+<p>Completing the Graduation of the Internet System course on 08/23 - and studying in parallel with courses and bootcamps found on the Internet and on other platforms, working with technology gives me the satisfaction I need to know that I am contributing to society and making the people's daily lives easier. Here In this profile, you will be able to follow all my evolution and continuous progress in learning. I will also leave my contacts available if you want to contact me...</p>          
 </div>
 
 <div align="center">
