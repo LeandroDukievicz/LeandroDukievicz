@@ -46,31 +46,35 @@
         <a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img height="80em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/leandrodukievicz/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<img height = "100em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/qrcode.jpg"/>
    
 </div>
-        
+
+
+ 
  #
       
  
 <section align="center">
   <h2 align="center"> Informações do Perfil:</h2>
+  
+</section>
+      <br>
+      
+<img src="https://github-profile-trophy.vercel.app/?username=LeandroDukievicz&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>   <br><br>
+<section align="center">
+
   <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=tokyonight"/>
   <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]https://github.com/radical/github-readme-stats"/><br>
-</section>
-      <br><br>
-      
-<img src="https://github-profile-trophy.vercel.app/?username=LeandroDukievicz&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>      
+</section> 
 
 ### :fire:  Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"><img src="https://activity-graph.herokuapp.com/graph?username=LeandroDukievicz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"><img src="https://activity-graph.herokuapp.com/graph?username=LeandroDukievicz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br>
+<br><br>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
  
+
 #
-<!--       
-## **_Índice de Projetos de Acordo com Linguagens e Ferramentas_**
-  
-#### HTML CSS JS 
-      
-[1 - FIRST PROJECTS](https://github.com/LeandroDukievicz/First_Projects)        -->
+
+
       
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
