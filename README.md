@@ -1,21 +1,22 @@
 
 <div align="center">
-      <img height ="150" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/hello.gif"/>
+      <img height ="500" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/CYBER.gif"/>
 </div>
     
+    
 <div align = "center">
-    <h1>Olá, Seja Bem Vindo(a) !!!</h1>
-      <h2> Um pouco sobre meu Perfil: </h2>  
-    <p>Sou um cara extremamente curioso, gosto de pesquisar e entender o porque das coisas, sempre tive muita afinidade e sempre fui muito próximo de tecnologias emergentes e recentemente à gadgets e Iot, à medida que meus recursos financeiros permitem, sempre estou adquirindo novos gadgets e coisas diferentes relacionada à tecnologia, decidi migrar pra esta área, porque definitivamente me achei nela, ainda apanho muito pra aprender, porém estou numa constante de aprendizado linear, e não vou parar até conseguir atingir meus alvos e metas estipulados, sendo a primeira das metas, de conseguir o primeiro emprego na área de tecnologia..<br><br>
-          Concluindo a Graduação do curso de Sistema pra internet em 08/23 - e estudando em paralelo com cursos e bootcamps encontrados pela internet e em outras plataformas, trabalhar com tecnologia me dá a satisfação que preciso em saber que estou contribuindo para a sociedade e tornando o dia-a-dia das pessoas mais fácil. Aqui está somente uma breve resenha do meu perfil, espero que meus códigos em evolução também possam mostrar um pouco sobre isso, e do mais, ficarei a disposição para conversarmos ,também deixarei disponível meus contatos caso queiram me contatar...</p> <br>
-    <a  href="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/EnglishVersion.md" target="_blank"><img  height="40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/united-states.png" target="_blank">Click here for English Version readme
+    
+_<h2> Um pouco sobre meu Perfil: </h2>_
+    <p align="justify">Sou um cara extremamente curioso, gosto de pesquisar e entender o porque das coisas, sempre tive muita afinidade e sempre fui muito próximo de tecnologias emergentes e recentemente à gadgets e Iot, decidi migrar pra esta área, porque definitivamente me encontrei nela, estou numa constante de aprendizado linear e te convido à navegar entre os meus repositórios pra conferir o meu aprendizado, sinta-se à vontade pra entrar em contato.<br><br>
+Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e estudando em paralelo com cursos e bootcamps encontrados pela internet e em outras plataformas, trabalhar com tecnologia me dá a satisfação que preciso em saber que estou contribuindo para a sociedade com a minha vocação e com o que tenho de melhor a oferecer. Aqui está somente uma breve descrição do meu perfil, espero que meus códigos em evolução também possam mostrar um pouco sobre isso, e do mais, ficarei a disposição para conversarmos ,também deixarei disponível meus contatos caso queiram me contatar...</p> <br>
+    <a  href="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/EnglishVersion.md" target="_blank"><img  height="40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/united-states.png" target="_blank">English Version
 </div>     
 
 #
 
 
 <div align="center">
-      <img height ="350" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/js.gif"/>
+     
 
 
 <p align="center">
