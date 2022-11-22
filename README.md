@@ -160,14 +160,12 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
  <div align="center">
     <img height= "300em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/at%C3%A9%20mais.gif"/>
  </div>
-      
-      
+          
  
  #
  
- 
  <div align="center">
-     <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="120" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
+     <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="119" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
 </div>     
 
  
