@@ -80,8 +80,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
    <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, vou continuar atualizando com projetos conforme for praticando...</p>
-   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
-   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    <img height = "80" src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
    <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -94,8 +93,10 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-</section>
-  
+</section><br><br><br>
+      
+ [Repo Sass](https://github.com/LeandroDukievicz/sass-projects.git)    
+      
 #
 
 <section align="center">
