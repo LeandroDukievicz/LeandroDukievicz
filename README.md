@@ -94,7 +94,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
 </section><br><br><br>
       
- [Repo Sass](https://github.com/LeandroDukievicz/sass-projects.git)    
+ [Repo Sass](https://github.com/LeandroDukievicz/sass-project-agency)    
       
 #
 
