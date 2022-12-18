@@ -64,7 +64,10 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 
   <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=tokyonight"/>
   <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]https://github.com/radical/github-readme-stats"/><br>
-</section> 
+</section> <br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz">
+      
 
 ### :fire:  Stats :
 
