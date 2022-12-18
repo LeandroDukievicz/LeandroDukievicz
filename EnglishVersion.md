@@ -54,7 +54,7 @@
 
 ### :fire:  Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"><img src="https://activity-graph.herokuapp.com/graph?username=LeandroDukievicz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz">
  
 #
 <!--       
