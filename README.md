@@ -83,7 +83,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
    <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, Você poderá navegar pelos repositórios de acordo com a tecnologia e os projetos que foram criados no processo de aprendizado de cada linguagem ou framework estudado...</p>
    <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><br><br>
    
-  [**_1 -_ Projeto Agency**](https://github.com/LeandroDukievicz/sass-project-agency)&nbsp;&nbsp;&nbsp;[**_2 -_ Projeto Electrum**](https://github.com/LeandroDukievicz/sass-project-electrum)&nbsp;&nbsp;&nbsp;[**_3 - Portifólio_**](https://github.com/LeandroDukievicz/Sass-React) 
+  [**_1 -_ Projeto Agency**](https://github.com/LeandroDukievicz/sass-project-agency)&nbsp;&nbsp;&nbsp;[**_2 -_ Projeto Electrum**](https://github.com/LeandroDukievicz/sass-project-electrum)&nbsp;&nbsp;&nbsp;[**_3 - Galeria_**](https://github.com/LeandroDukievicz/galery-sass)&nbsp;&nbsp;&nbsp;[**_4 - Portifólio_**](https://github.com/LeandroDukievicz/Sass-React) 
       
       
       
