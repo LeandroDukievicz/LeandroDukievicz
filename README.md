@@ -19,23 +19,6 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
      
 
 
-<p align="center">
-  <code>
-  <i>“Um dia é preciso parar de sonhar, tirar os planos da gaveta e, de algum modo, começar” –  </i><i align="left">  Amyr Klink.</i>
-  </code>
-      <br><br>
-        
-   <code>     
-    <i> “Não tenho nenhum talento especial, sou apenas apaixonadamente curioso - ” –  </i> 
-    <i align="left">  Albert Einsten .</i>
-          </code>
-      <br><br>
-      <code>     
-    <i> “O mistério gera curiosidade e a curiosidade é a base do desejo humano para compreender  - ” –  </i> 
-    <i align="left">  Neil Armstrong .</i>
-          </code>
- 
-</p>
 
 
 
