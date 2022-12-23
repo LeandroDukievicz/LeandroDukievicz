@@ -103,12 +103,13 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
     <p> Total visits on my profile :detective:</p>
     <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
  </div>
- 
-
           
  
  #
  
+ <div align="center">
+     <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="119" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
+</div>   
 
 
 
