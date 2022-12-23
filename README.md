@@ -18,37 +18,27 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <div align="center">
      
 
-
-
-
-
-#
-
 <div align = "center">
     <h2 align="center">Contatos : </h2>
         <a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img height="80em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/leandrodukievicz/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<img height = "100em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/qrcode.jpg"/>
    
 </div>
 
-
- 
  #
       
- 
 <section align="center">
   <h2 align="center"> Informações do Perfil:</h2>
   
 </section>
       <br>
-      
-<img src="https://github-profile-trophy.vercel.app/?username=LeandroDukievicz&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>   <br><br>
-<section align="center">
 
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=LeandroDukievicz&show_icons=true&theme=tokyonight"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&layout=demo)]https://github.com/radical/github-readme-stats"/><br>
-</section> <br><br>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroDukievicz&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDukievicz&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDukievicz&theme=tokyonight) |
+| :-: | :-: | :-: |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz">
+#
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight) <br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"> 
       
 
 ### :fire:  Stats :
@@ -59,7 +49,6 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 
 #
 
-
       
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
@@ -67,8 +56,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
    <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><br><br>
    
   [**_1 -_ Projeto Agency**](https://github.com/LeandroDukievicz/sass-project-agency)&nbsp;&nbsp;&nbsp;[**_2 -_ Projeto Electrum**](https://github.com/LeandroDukievicz/sass-project-electrum)&nbsp;&nbsp;&nbsp;[**_3 - Galeria_**](https://github.com/LeandroDukievicz/galery-sass)&nbsp;&nbsp;&nbsp;
-      
-      
+        
       
    #  
       
@@ -86,7 +74,6 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
 </section><br><br><br>
       
-
       
 #
 
@@ -100,36 +87,9 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 #
 
 
-
-
  <div align="center">
- 
- 
-  
- 
-
-
-
-
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   
 ![](https://i.imgur.com/waxVImv.png)
@@ -143,7 +103,6 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
  </div>
  
 
-
  <div align="center">
     <p> Total visits on my profile :detective:</p>
     <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
@@ -156,13 +115,8 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
  
  #
  
- <div align="center">
-     <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="119" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
-</div>     
 
- 
- 
- 
+
 
 
 
