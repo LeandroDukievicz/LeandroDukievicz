@@ -97,20 +97,14 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
   <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
  
- <div align="center">
-    <img height= "40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/circuitfx_directions.gif"/>
-    <img height= "40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/circuitfx_directions.gif"/>
- </div>
- 
+
 
  <div align="center">
     <p> Total visits on my profile :detective:</p>
     <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
  </div>
  
- <div align="center">
-    <img height= "300em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/at%C3%A9%20mais.gif"/>
- </div>
+
           
  
  #
