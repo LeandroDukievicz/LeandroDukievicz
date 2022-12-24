@@ -56,20 +56,44 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
        
 <table align="center" border="5px" >
       <tr>
+            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td> 
+             <td><a href="https://github.com/LeandroDukievicz/First_Projects"><i><strong>1 - Repo First Projects</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/DoctorPinguimPortifolio"><i><strong>2 - Portifólio Dr Pinguim</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/Mod52_frontend"><i><strong>3 - Módulo 52 - Front End</i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/clone-homepage-instagram"><i><strong>4 - Clone - Home Page Instagram <i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/css-html-agencia"><i><strong>5 - Projeto Agência</i></strong></a></td>      
+      </tr>
+</table>      
+        
+<table align="center" border="5px" >
+      <tr>
+            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td> 
+             <td ><a href="https://github.com/LeandroDukievicz/php-lessons"><i><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 - Repositório - Php Lessons&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/back-end-1"><i><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 - Módulo Fac - Back End 01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i></strong></a></td> 
+      </tr>
+</table>        
+      
+    
+      
+<table align="center" border="5px" >
+      <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td> 
-             <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong>1 - Projeto Agência</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/sass-project-electrum"><i><strong>2 - Projeto E-Commerce Electrum/a></i></strong></td>
-             <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong>3 - Projeto Agência</a></i></strong></td> 
+             <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong> 1 - Projeto  Agência</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/sass-project-electrum"><i><strong> 2 - Projeto  E-Commerce Electrum</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong> 3 - Projeto  Agência</a></i></strong></td> 
       </tr>
 </table>
+      
 <table align="center" border="5px" >
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td> 
-             <td><a href="#"><i><strong>1 - Projeto </i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap-urban-arts"><i><strong>1 - Projeto Artes Urbanas </i></strong></a></td>
              <td><a href="#"><i><strong>2 - Projeto></i></strong></a></td>
              <td><a href="#"><i><strong>3 - Projeto </i></strong></a></td> 
       </tr>
 </table>
+      
+    
       
             
           
@@ -78,41 +102,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
  
 
       
-  #    
-      
-      
-   
-      
-   <img height = "80" src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img  height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
-</section><br><br><br>
-      
-      
-#
-
-<section align="center">
-  <p>Conhecimento Básico em : </p>
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
-  <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
-</section>
-
-#
-
-
- <div align="center">
-
-</div>
+ 
 
   
 ![](https://i.imgur.com/waxVImv.png)
