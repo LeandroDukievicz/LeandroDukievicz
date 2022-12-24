@@ -94,7 +94,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td> 
              <td><a href="https://github.com/LeandroDukievicz/bootstrap-urban-arts"><i><strong>1 - Projeto Artes Urbanas </i></strong></a></td>
-             <td><a href="#"><i><strong>2 - Projeto></i></strong></a></td>
+             <td><a href="#"><i><strong>2 - Projeto</i></strong></a></td>
              <td><a href="#"><i><strong>3 - Projeto </i></strong></a></td> 
       </tr>
 </table>
