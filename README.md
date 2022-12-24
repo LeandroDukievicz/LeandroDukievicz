@@ -53,15 +53,23 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
    <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, Você poderá navegar pelos repositórios de acordo com a tecnologia e os projetos que foram criados no processo de aprendizado de cada linguagem ou framework ...</p><br><br>
-       
+
+<table align="center" border="10px" >
+      <tr>
+            <td><img  height="200em" src="https://github.com/LeandroDukievicz/CERTIFICATES/blob/main/certificate-icon.gif" target="_blank"></td> 
+            <td><p>Estou sempre me atualizando e aprendendo continuamente novas tecnologias,<br> e caso queira conferir um poucos dos cursos ao qual já passei,<br> é so clicar ao lado, ou conferir os projetos de acordo com <br>a linguagem ou framework logo abaixo !</p></td>
+             <td><a href="https://github.com/LeandroDukievicz/CERTIFICATES"><i><strong>Confira Aqui!</i></strong></a></td> 
+      </tr>
+</table>      
+      
 <table align="center" border="5px" >
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td> 
-             <td><a href="https://github.com/LeandroDukievicz/First_Projects"><i><strong>1 - Repo First Projects</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/DoctorPinguimPortifolio"><i><strong>2 - Portifólio Dr Pinguim</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/Mod52_frontend"><i><strong>3 - Módulo 52 - Front End</i></strong></a></td> 
-             <td><a href="https://github.com/LeandroDukievicz/clone-homepage-instagram"><i><strong>4 - Clone - Home Page Instagram <i></strong></a></td> 
-             <td><a href="https://github.com/LeandroDukievicz/css-html-agencia"><i><strong>5 - Projeto Agência</i></strong></a></td>      
+             <td><a href="https://github.com/LeandroDukievicz/First_Projects"><i><strong>1-First Projects</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/DoctorPinguimPortifolio"><i><strong>2-Dr. Pinguim</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/Mod52_frontend"><i><strong>3 - Mod 52-Front End</i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/clone-homepage-instagram"><i><strong>4-Clone Home P. Instagram <i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/css-html-agencia"><i><strong>5-Projeto Agência</i></strong></a></td>      
       </tr>
 </table>      
         
@@ -72,9 +80,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
              <td><a href="https://github.com/LeandroDukievicz/back-end-1"><i><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 - Módulo Fac - Back End 01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i></strong></a></td> 
       </tr>
 </table>        
-      
-    
-      
+                
 <table align="center" border="5px" >
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td> 
