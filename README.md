@@ -52,13 +52,36 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
       
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
-   <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, Você poderá navegar pelos repositórios de acordo com a tecnologia e os projetos que foram criados no processo de aprendizado de cada linguagem ou framework estudado...</p>
-   <img height ="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><br><br>
-   
-  [**_1 -_ Projeto Agency**](https://github.com/LeandroDukievicz/sass-project-agency)&nbsp;&nbsp;&nbsp;[**_2 -_ Projeto Electrum**](https://github.com/LeandroDukievicz/sass-project-electrum)&nbsp;&nbsp;&nbsp;[**_3 - Galeria_**](https://github.com/LeandroDukievicz/galery-sass)&nbsp;&nbsp;&nbsp;
-        
+   <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, Você poderá navegar pelos repositórios de acordo com a tecnologia e os projetos que foram criados no processo de aprendizado de cada linguagem ou framework ...</p><br><br>
+       
+<table align="center" border="5px" >
+      <tr>
+            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td> 
+             <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong>1 - Projeto Agência</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/sass-project-electrum"><i><strong>2 - Projeto E-Commerce Electrum/a></i></strong></td>
+             <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong>3 - Projeto Agência</a></i></strong></td> 
+      </tr>
+</table>
+<table align="center" border="5px" >
+      <tr>
+            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td> 
+             <td><a href="#"><i><strong>1 - Projeto </i></strong></a></td>
+             <td><a href="#"><i><strong>2 - Projeto></i></strong></a></td>
+             <td><a href="#"><i><strong>3 - Projeto </i></strong></a></td> 
+      </tr>
+</table>
       
-   #  
+            
+          
+
+
+ 
+
+      
+  #    
+      
+      
+   
       
    <img height = "80" src=  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
    <img height = "80" src= " https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/Sem%20t%C3%ADtulo.jpg" />
