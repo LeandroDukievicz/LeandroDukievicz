@@ -93,9 +93,9 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <table align="center" border="5px" >
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td> 
-             <td><a href="https://github.com/LeandroDukievicz/bootstrap-urban-arts"><i><strong>1 - Projeto Artes Urbanas </i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/bootstrap5-exact-time-"><i><strong>2 - Exact Time</i></strong></a></td>
-             <td><a href="#"><i><strong>3 - Projeto </i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap-urban-arts"><i><strong>1 - Projeto Arte Urbana </i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap5-exact-time-"><i><strong>2 -  Proj Exact Time</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap-imovi"><i><strong>3 - Projeto Construtora Imovi </i></strong></a></td> 
       </tr>
 </table>
       
