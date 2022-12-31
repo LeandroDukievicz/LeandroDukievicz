@@ -39,7 +39,8 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight) <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"> 
-      
+
+#
 
 ### :fire:  Stats :
 
@@ -100,17 +101,6 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 </table>
       
     
-      
-            
-          
-
-
- 
-
-      
- 
-
-  
 ![](https://i.imgur.com/waxVImv.png)
 <p align="center">
   <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
