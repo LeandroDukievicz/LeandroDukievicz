@@ -61,18 +61,30 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
             <td><p>Estou sempre me atualizando e aprendendo continuamente novas tecnologias,<br> e caso queira conferir um poucos dos cursos ao qual já passei,<br> é so clicar ao lado, ou conferir os projetos de acordo com <br>a linguagem ou framework logo abaixo !</p></td>
              <td><a href="https://github.com/LeandroDukievicz/CERTIFICATES"><i><strong>Confira Aqui!</i></strong></a></td> 
       </tr>
-</table>      
+</table>
+      
+<table align="center" border="5px" >
+      <tr>
+            <td><img height ="100em"src="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-/blob/main/assets/rocketseat.svg" /></td> 
+             <td><a href="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-"><i><strong>Habits Tracker</i></strong></a></td>
+             <td><a href=""><i><strong>2 - Coming Soon</i></strong></a></td>
+             <td><a href=""><i><strong>3 - Coming Soon</i></strong></a></td> 
+             <td><a href=""><i><strong>4 - Coming Soon<i></strong></a></td>                
+      </tr>
+</table>         
       
 <table align="center" border="5px" >
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td> 
-             <td><a href="https://github.com/LeandroDukievicz/First_Projects"><i><strong>1-First Projects</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/DoctorPinguimPortifolio"><i><strong>2-Dr. Pinguim</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/Mod52_frontend"><i><strong>3 - Mod 52-Front End</i></strong></a></td> 
-             <td><a href="https://github.com/LeandroDukievicz/clone-homepage-instagram"><i><strong>4-Clone Home P. Instagram <i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/First_Projects"><i><strong>1 - First Projects</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/DoctorPinguimPortifolio"><i><strong>2 - Dr. Pinguim</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/Mod52_frontend"><i><strong>3 - Módulo 52-Front End</i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/clone-homepage-instagram"><i><strong>4-Clone Home Page. Instagram <i></strong></a></td> 
              <td><a href="https://github.com/LeandroDukievicz/css-html-agencia"><i><strong>5-Projeto Agência</i></strong></a></td>      
       </tr>
 </table>      
+      
+   
         
 <table align="center" border="5px" >
       <tr>
