@@ -58,7 +58,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <table align="center" border="10px" >
       <tr>
             <td><img  height="200em" src="https://github.com/LeandroDukievicz/CERTIFICATES/blob/main/certificate-icon.gif" target="_blank"></td> 
-            <td><p>Estou sempre me atualizando e aprendendo continuamente novas tecnologias,<br> e caso queira conferir um poucos dos cursos ao qual já passei,<br> é so clicar ao lado, ou conferir os projetos de acordo com <br>a linguagem ou framework logo abaixo !</p></td>
+            <td><p>Estou sempre me atualizando e aprendendo continuamente novas tecnologias,<br> e caso queira conferir um poucos dos cursos ao qual já concluí,<br> é so clicar ao lado, ou conferir os projetos de acordo com <br>a linguagem ou framework logo abaixo !</p></td>
              <td><a href="https://github.com/LeandroDukievicz/CERTIFICATES"><i><strong>Confira Aqui!</i></strong></a></td> 
       </tr>
 </table>
