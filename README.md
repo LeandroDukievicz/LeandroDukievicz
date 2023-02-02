@@ -86,14 +86,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
       
    
         
-<table align="center" border="5px" >
-      <tr>
-            <td><img height ="100em"src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td> 
-             <td ><a href="https://github.com/LeandroDukievicz/php-lessons"><i><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 - Repositório - Php Lessons&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/back-end-1"><i><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 - Módulo Fac - Back End 01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i></strong></a></td> 
-      </tr>
-</table>        
+
                 
 <table align="center" border="5px" >
       <tr>
