@@ -102,6 +102,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
              <td><a href="#"><i><strong>1 - Tic-Tac-Toe </i></strong></a></td>
              <td><a href="#"><i><strong>2 -  Quizz</i></strong></a></td>
              <td><a href="#"><i><strong>3 - Calc-JS </i></strong></a></td> 
+             <td><a href="#"><i><strong>4 - Job Finder </i></strong></a></td> 
       </tr>
 </table>
       
