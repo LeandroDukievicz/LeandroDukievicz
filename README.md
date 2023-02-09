@@ -1,4 +1,3 @@
-
 <div align="center">
       <img height ="500" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/CYBER.gif"/>
 </div>
@@ -14,10 +13,8 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 
 #
 
-
 <div align="center">
      
-
 <div align = "center">
     <h2 align="center">Contatos : </h2>
         <a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img height="80em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/leandrodukievicz/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<img height = "100em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/qrcode.jpg"/>
@@ -44,12 +41,9 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 
 ### :fire:  Stats :
 
-
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
- 
 
 #
-
       
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
@@ -103,11 +97,11 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 </table>
       
 <table align="center" border="5px" >
-      <tr>
-            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td> 
-             <td><a href="https://github.com/LeandroDukievicz/bootstrap-urban-arts"><i><strong>1 - Projeto Arte Urbana </i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/bootstrap5-exact-time-"><i><strong>2 -  Proj Exact Time</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/bootstrap-imovi"><i><strong>3 - Projeto Construtora Imovi </i></strong></a></td> 
+      <tr>     
+            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td> 
+             <td><a href="#"><i><strong>1 - Tic-Tac-Toe </i></strong></a></td>
+             <td><a href="#"><i><strong>2 -  Quizz</i></strong></a></td>
+             <td><a href="#"><i><strong>3 - Calc-JS </i></strong></a></td> 
       </tr>
 </table>
       
@@ -116,15 +110,12 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <p align="center">
   <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
- 
-
 
  <div align="center">
     <p> Total visits on my profile :detective:</p>
     <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
  </div>
           
- 
  #
  
  <div align="center">
