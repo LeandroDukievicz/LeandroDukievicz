@@ -83,17 +83,22 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
              <td><a href="https://github.com/LeandroDukievicz/css-html-agencia"><i><strong>5-Projeto Agência</i></strong></a></td>      
       </tr>
 </table>      
-      
-   
-        
-
-                
+              
 <table align="center" border="5px" >
       <tr>
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td> 
              <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong> 1 - Projeto  Agência</i></strong></a></td>
              <td><a href="https://github.com/LeandroDukievicz/sass-project-electrum"><i><strong> 2 - Projeto  E-Commerce Electrum</i></strong></a></td>
              <td><a href="https://github.com/LeandroDukievicz/sass-project-agency"><i><strong> 3 - Projeto  Agência</a></i></strong></td> 
+      </tr>
+</table>
+      
+<table align="center" border="5px" >
+      <tr>
+            <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td> 
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap-urban-arts"><i><strong>1 - Projeto Arte Urbana </i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap5-exact-time-"><i><strong>2 -  Proj Exact Time</i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/bootstrap-imovi"><i><strong>3 - Projeto Construtora Imovi </i></strong></a></td> 
       </tr>
 </table>
       
