@@ -99,7 +99,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 <table align="center" border="5px" >
       <tr>     
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td> 
-             <td><a href="#"><i><strong>1 - Tic-Tac-Toe </i></strong></a></td>
+             <td><a href="https://github.com/LeandroDukievicz/tic-tac-toe"><i><strong>1 - Tic-Tac-Toe </i></strong></a></td>
              <td><a href="#"><i><strong>2 -  Quizz</i></strong></a></td>
              <td><a href="#"><i><strong>3 - Calc-JS </i></strong></a></td> 
              <td><a href="#"><i><strong>4 - Job Finder </i></strong></a></td> 
