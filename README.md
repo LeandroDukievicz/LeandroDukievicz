@@ -72,7 +72,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
             <td><img height ="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td> 
              <td><a href="https://github.com/LeandroDukievicz/First_Projects"><i><strong>1 - First Projects</i></strong></a></td>
              <td><a href="https://github.com/LeandroDukievicz/DoctorPinguimPortifolio"><i><strong>2 - Dr. Pinguim</i></strong></a></td>
-             <td><a href="https://github.com/LeandroDukievicz/Mod52_frontend"><i><strong>3 - Módulo 52-Front End</i></strong></a></td> 
+             <td><a href="https://github.com/LeandroDukievicz/BarberShop"><i><strong>3 - Barber-Shop</i></strong></a></td> 
              <td><a href="https://github.com/LeandroDukievicz/clone-homepage-instagram"><i><strong>4-Clone Home Page. Instagram <i></strong></a></td> 
              <td><a href="https://github.com/LeandroDukievicz/css-html-agencia"><i><strong>5-Projeto Agência</i></strong></a></td>      
       </tr>
