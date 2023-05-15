@@ -45,9 +45,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em 08/23 - e e
 
 #
       
-<section align="center">
-   <h2>Linguagens/Frameworks e Ferramentas:</h2>
-   <p>Estas são as linguagens e as ferramentas que estou em aprendizado no momento, Você poderá navegar pelos repositórios de acordo com a tecnologia e os projetos que foram criados no processo de aprendizado de cada linguagem ou framework ...</p><br><br>
+
 
 <table align="center" border="10px" >
       <tr>
