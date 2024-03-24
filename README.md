@@ -19,7 +19,7 @@ _**<h2>Sobre:</h2>**_
 relacionado à programação. Suficiente para comunicação efetiva no ambiente de
 desenvolvimento de software.</li>
       <br> 
-<li>💻 Confira meu <strong><i>Portifólio</i></strong> atual  <a href="https://leandroduk.vercel.app/">Clicando Aqui !!</a> </li> 
+<li>💻 Confira meu <strong><i>Portifólio</i></strong> atual  <a href="https://leandroduk.vercel.app/" target="_blank">Clicando Aqui !!</a> </li> 
  
   </ul>
  
