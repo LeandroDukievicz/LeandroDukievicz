@@ -1,5 +1,5 @@
 <div align="center">
-      <img height ="500" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/CYBER.gif"/>
+      <img height ="400" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/leandro.gif"/>
 </div>
 
 #
