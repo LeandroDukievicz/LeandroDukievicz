@@ -1,17 +1,35 @@
 <div align="center">
       <img height ="500" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/CYBER.gif"/>
 </div>
-    
+
+#
+
+_**<h2>Sobre:</h2>**_
+### Olá, Seja bem vindo ao meu perfil 
+  
+  <li> Aficcionado por Programação, nerd 🤓, Músico por Hobbie, toco violão, guitarra e baixo 🎸 🎼,  Consumidor assíduo de café ☕, amante de boa música, Cinema, literatura e ficção científica 📖.</li>
+      <br>
+ <li> Formado em <strong>Sistemas para Internet - Desenvolvimento Web - Full-Stack</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 26/01/2024 </li>
+      <br> 
+  <li>💻 Estudando atualmente na <a href="https://udemy.com.br" target="_blank">Udemy</a>, <a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a>, <a href="https://www.dio.me" target="_blank">DIO</a>,  <a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros </a> </li> 
+        <br> 
+  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento Web full stack.</li>
+        <br> 
+   <li> Tenho Inglês básico ( em evolução para intermediário ) com ênfase em termos técnicos e vocabulário
+relacionado à programação. Suficiente para comunicação efetiva no ambiente de
+desenvolvimento de software.</li>
+      <br> 
+<li>💻 Confira meu <strong><i>Portifólio</i></strong> atual  <a href="https://leandroduk.vercel.app/" target="_blank">Clicando Aqui !!</a> </li> 
+ 
+  </ul>
+ 
     
 <div align = "center">
     
-_**<h2>Sobre:</h2>**_
-    <p align="justify">Sou um cara extremamente curioso, gosto de pesquisar e entender o porque das coisas, sempre tive muita afinidade e sempre fui muito próximo de tecnologias emergentes e recentemente à gadgets e Iot, decidi migrar pra esta área, porque definitivamente me encontrei nela, estou numa constante de aprendizado linear e te convido à navegar entre os meus repositórios pra conferir o meu aprendizado, sinta-se à vontade pra entrar em contato.<br><br>
-Estou concluindo a Graduação do curso de Sistemas para Internet em outubro de 2023 - e estudando em paralelo com cursos e bootcamps encontrados pela internet e em outras plataformas, trabalhar com tecnologia me dá a satisfação que preciso em saber que estou contribuindo para a sociedade com a minha vocação e com o que tenho de melhor a oferecer. Aqui está somente uma breve descrição do meu perfil, espero que meus códigos em evolução também possam mostrar um pouco sobre isso, e do mais, ficarei a disposição para conversarmos ,também deixarei disponível meus contatos caso queiram me contatar...</p> <br>
-    <a  href="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/EnglishVersion.md" target="_blank"><img  height="40em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/united-states.png" target="_blank">English Version
-</div>     
 
-#
+   
+
+
 
 <div align="center">
      
@@ -39,13 +57,25 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em outubro de 
 
 #
 
-### :fire:  Stats :
+### :fire:  Status :
 
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
 #
-      
 
+
+<h1 align="center"> Atividade </h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroDukievicz&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
+#
+
+<br>
+
+<div align="center">
+ <img  align="center" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&theme=tokyonight&layout=pie&include_all_commits=true" />
+</div>
+      
+<br><br>
 
 <table align="center" border="10px" >
       <tr>
@@ -56,11 +86,7 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em outubro de 
 </table>
 
  
-    
-![](https://i.imgur.com/waxVImv.png)
-<p align="center">
-  <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+
 
  <div align="center">
     <p> Total visits on my profile :detective:</p>
@@ -72,6 +98,15 @@ Estou concluindo a Graduação do curso de Sistemas para Internet em outubro de 
  <div align="center">
      <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="119" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
 </div>   
+
+
+
+
+
+    
+ 
+     
+
 
 
 
