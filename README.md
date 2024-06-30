@@ -11,8 +11,8 @@ _**<h2>Sobre:</h2>**_
       <br>
  <li> Formado em <strong>Sistemas para Internet - Desenvolvimento Web - Full-Stack</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 26/01/2024 </li>
       <br> 
-  <li>💻 Estudando atualmente na <a href="https://udemy.com.br" target="_blank">Udemy</a>, <a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a>, <a href="https://www.dio.me" target="_blank">DIO</a>,  <a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros </a> </li> 
-        <br> 
+  <li>💻 Estudando atualmente :  <hr> <a href="https://udemy.com.br" target="_blank">Cursos Udemy</a> <hr>  <a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a> <hr>  <a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros </a> <hr><a href="https://inscricoes.unicesumar.edu.br" target="_blank">Pós graduação em Python  </a> </li> 
+        <br> <hr>
   <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento Web full stack.</li>
         <br> 
    <li> Tenho Inglês básico ( em evolução para intermediário ) com ênfase em termos técnicos e vocabulário
