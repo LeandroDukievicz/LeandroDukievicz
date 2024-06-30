@@ -13,7 +13,7 @@ _**<h2>Sobre:</h2>**_
       <br> 
   <li>💻 Estudando atualmente :  <hr> <a href="https://udemy.com.br" target="_blank">Cursos Udemy</a> <hr>  <a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a> <hr>  <a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros </a> <hr><a href="https://inscricoes.unicesumar.edu.br" target="_blank">Pós graduação em Python  </a> </li> 
         <br> <hr>
-  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento Web full stack.</li>
+  <li>🔭 Atualmente estou em transição de carreira procurando por oportunidades em Front end, porém vale ressaltar que tenho excelentes noções com backend.</li>
         <br> 
    <li> Tenho Inglês básico ( em evolução para intermediário ) com ênfase em termos técnicos e vocabulário
 relacionado à programação. Suficiente para comunicação efetiva no ambiente de
