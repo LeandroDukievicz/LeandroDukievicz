@@ -1,5 +1,7 @@
 <div align="center">
-      <img height ="400" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/leandro.gif"/>
+     <h1>Leandro Dukiévicz</h1>
+      <a href="https://www.linkedin.com/in/leandrodukievicz/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="[mailto:leandrodukievicz1718@gmail.com](https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F)"><img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">&ensp;&ensp;&ensp;&ensp;&ensp;</a><a href="https://leandroduk.vercel.app/"><img height="40" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+
 </div>
 
 #
@@ -11,8 +13,8 @@ _**<h2>Sobre:</h2>**_
       <br>
  <li> Formado em <strong>Sistemas para Internet - Desenvolvimento Web - Full-Stack</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 26/01/2024 </li>
       <br> 
-  <li>💻 Estudando atualmente :  <hr> <a href="https://udemy.com.br" target="_blank">Cursos Udemy</a> <hr>  <a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a> <hr>  <a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros </a> <hr><a href="https://inscricoes.unicesumar.edu.br" target="_blank">Pós graduação em Python  </a> </li> 
-        <br> <hr>
+  <li>💻 Estudando atualmente : <a href="https://udemy.com.br" target="_blank">Cursos Udemy</a>&ensp;&ensp;&ensp;<a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a>&ensp;&ensp;&ensp;<a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros</a>&ensp;&ensp;&ensp;<a href="https://inscricoes.unicesumar.edu.br" target="_blank">Pós graduação em Python</a> </li> 
+        <br> 
   <li>🔭 Atualmente estou em transição de carreira procurando por oportunidades em Front end, porém vale ressaltar que tenho excelentes noções com backend.</li>
         <br> 
    <li> Tenho Inglês básico ( em evolução para intermediário ) com ênfase em termos técnicos e vocabulário
@@ -32,12 +34,7 @@ desenvolvimento de software.</li>
 
 
 <div align="center">
-     
-<div align = "center">
-    <h2 align="center">Contatos : </h2>
-        <a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F" target="_blank"><img height="80em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/contact.gif"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://www.linkedin.com/in/leandrodukievicz/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<img height = "100em"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/qrcode.jpg"/>
-   
-</div>
+ 
 
  #
       
