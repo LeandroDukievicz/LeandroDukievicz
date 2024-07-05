@@ -1,6 +1,7 @@
 <div align="center">
      <h1>Leandro Dukiévicz</h1>
-      <a href="https://www.linkedin.com/in/leandrodukievicz/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="[mailto:leandrodukievicz1718@gmail.com](https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F)"><img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">&ensp;&ensp;&ensp;&ensp;&ensp;</a><a href="https://leandroduk.vercel.app/"><img height="40" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/leandrodukievicz/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;</a><a href="https://leandroduk.vercel.app/"><img height="40" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F"><img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 
 </div>
 
