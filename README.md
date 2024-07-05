@@ -1,14 +1,14 @@
 <div align="center">
      <h1>Leandro Dukiévicz</h1>
       <a href="https://www.linkedin.com/in/leandrodukievicz/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;</a><a href="https://leandroduk.vercel.app/"><img height="40" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F"><img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
-
 </div>
 
-#
 
-_**<h2>Sobre:</h2>**_
-### Olá, Seja bem vindo ao meu perfil 
+
+<div align="justify">
+<h2>Sobre:</h2>
+
+<h3>Olá, Seja bem vindo ao meu perfil</h3> 
   
   <li> Aficcionado por Programação, nerd 🤓, Músico por Hobbie, toco violão, guitarra e baixo 🎸 🎼,  Consumidor assíduo de café ☕, amante de boa música, Cinema, literatura e ficção científica 📖.</li>
       <br>
@@ -25,47 +25,26 @@ desenvolvimento de software.</li>
 <li>💻 Confira meu <strong><i>Portifólio</i></strong> atual  <a href="https://leandroduk.vercel.app/" target="_blank">Clicando Aqui !!</a> </li> 
  
   </ul>
- 
-    
-<div align = "center">
-    
-
-   
-
-
-
-<div align="center">
- 
+</div>
 
  #
       
 <section align="center">
-  <h2 align="center"> Informações do Perfil:</h2>
-  
-</section>
-      <br>
+  <h2 align="center"> Informações do Perfil:</h2> 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroDukievicz&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDukievicz&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDukievicz&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-#
-
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight) <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"> 
-
-#
 
 ### :fire:  Status :
 
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
-#
-
 
 <h1 align="center"> Atividade </h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroDukievicz&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-
-#
 
 <br>
 
@@ -98,7 +77,7 @@ desenvolvimento de software.</li>
 </div>   
 
 
-
+</section>
 
 
     
