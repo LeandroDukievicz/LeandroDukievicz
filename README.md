@@ -43,14 +43,9 @@ desenvolvimento de software.</li>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
 
-<h1 align="center"> Atividade </h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroDukievicz&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-<br>
 
-<div align="center">
- <img  align="center" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroDukievicz&theme=tokyonight&layout=pie&include_all_commits=true" />
-</div>
+
       
 <br><br>
 
@@ -71,6 +66,14 @@ desenvolvimento de software.</li>
  </div>
           
  #
+
+ <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  </picture>
+
+#
  
  <div align="center">
      <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="119" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
