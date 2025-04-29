@@ -13,9 +13,10 @@
   <li> Aficcionado por Programação, nerd 🤓, Músico por Hobbie, toco violão, guitarra e baixo 🎸 🎼,  Consumidor assíduo de café ☕, amante de boa música, Cinema, literatura e ficção científica 📖.</li>
       <br>
  <li> Formado em <strong>Sistemas para Internet - Desenvolvimento Web - Full-Stack</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 26/01/2024 </li>
+ <li> Pós - graduado em <strong>Desenvolvimento de Sistemas em python </strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 25/05/2024 à 27/03/2025 </li>
       <br> 
-  <li>💻 Estudando atualmente : <a href="https://udemy.com.br" target="_blank">Cursos Udemy</a>&ensp;&ensp;&ensp;<a href="https://curso.dev/" target="_blank">Curso Dev do Filipe Deschamps</a>&ensp;&ensp;&ensp;<a href="https://formacaofullstackjavascript.club.hotmart.com/" target="_blank">Curso Full Stack Thiago Medeiros</a>&ensp;&ensp;&ensp;<a href="https://inscricoes.unicesumar.edu.br" target="_blank">Pós graduação em Python</a> </li> 
-        <br> 
+   
+        
   <li>🔭 Atualmente estou em transição de carreira procurando por oportunidades em Front end, porém vale ressaltar que tenho excelentes noções com backend.</li>
         <br> 
    <li> Tenho Inglês básico ( em evolução para intermediário ) com ênfase em termos técnicos e vocabulário
