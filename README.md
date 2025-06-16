@@ -13,7 +13,8 @@
   <li> Aficcionado por Programação, nerd 🤓, Músico por Hobbie, toco violão, guitarra e baixo 🎸 🎼,  Consumidor assíduo de café ☕, amante de boa música, Cinema, literatura e ficção científica 📖.</li>
       <br>
  <li> Formado em <strong>Sistemas para Internet - Desenvolvimento Web - Full-Stack</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 26/01/2024 </li>
- <li> Pós - graduado em <strong>Desenvolvimento de Sistemas em python </strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 25/05/2024 à 27/03/2025 </li>
+ <li> Pós - Graduado em <strong>Desenvolvimento de Sistemas em python </strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 25/05/2024 à 27/03/2025 </li>
+ <li><strong>Pós - Graduação lato sensu em negócios digitais e inovação</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 01/06/2025 - Cursando </li>
       <br> 
    
         
