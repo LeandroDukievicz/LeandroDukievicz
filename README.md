@@ -84,7 +84,9 @@ desenvolvimento de software.</li>
 
 
     
- 
+ <p align="center">
+  <img src="https://github.com/deMGoncalves/LeandroDukievicz/blob/master/github-metrics.svg" />
+</p>
      
 
 
