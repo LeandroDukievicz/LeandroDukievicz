@@ -83,11 +83,10 @@ desenvolvimento de software.</li>
 </section>
 
 
-    
- <p align="center">
-  <img src="https://github.com/deMGoncalves/LeandroDukievicz/blob/master/github-metrics.svg" />
+  <p align="center">
+  <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/master/github-metrics.svg" />
 </p>
-     
+
 
 
 
