@@ -38,9 +38,7 @@ desenvolvimento de software.</li>
 | :-: | :-: | :-: |
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight) <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroDukievicz&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br><br><br><a href="http://www.github.com/LeandroDukievicz"> 
-
-### :fire:  Status :
+## :fire:  Status :
 
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
