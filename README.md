@@ -1,107 +1,112 @@
 <div align="center">
-     <h1>Leandro Dukiévicz</h1>
-      <a href="https://www.linkedin.com/in/leandrodukievicz/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="mailto:leandrodukievicz1718@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;</a><a href="https://leandroduk.vercel.app/"><img height="40" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>&ensp;&ensp;&ensp;&ensp;&ensp;<a href="https://wa.me/5544991293234?text=Ol%C3%A1%2C+tudo+bem+%3F"><img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+# Leandro Dukievicz
+
+### Desenvolvedor Frontend · JavaScript · React · Next · Node
+
 </div>
 
+---
 
+## Sobre
 
-<div align="justify">
-<h2>Sobre:</h2>
+Desenvolvedor com formação técnica em **Sistemas para Internet (Full-Stack)**, pós-graduação em **Desenvolvimento de Sistemas Python** e especialização em andamento em **Negócios Digitais e Inovação** — todos pela Unicesumar.
 
-<h3>Olá, Seja bem vindo ao meu perfil</h3> 
-  
-  <li> Aficcionado por Programação, nerd 🤓, Músico por Hobbie, toco violão, guitarra e baixo 🎸 🎼,  Consumidor assíduo de café ☕, amante de boa música, Cinema, literatura e ficção científica 📖.</li>
-      <br>
- <li> Formado em <strong>Sistemas para Internet - Desenvolvimento Web - Full-Stack</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 26/01/2024 </li>
- <li> Pós - Graduado em <strong>Desenvolvimento de Sistemas em python </strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 25/05/2024 à 27/03/2025 </li>
- <li><strong>Pós - Graduação lato sensu em negócios digitais e inovação</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank" >Unicesumar </a>. em 01/06/2025 - Cursando </li>
-      <br> 
-   
-        
-  <li>🔭 Atualmente estou em transição de carreira procurando por oportunidades em Front end, porém vale ressaltar que tenho excelentes noções com backend.</li>
-        <br> 
-   <li> Tenho Inglês básico ( em evolução para intermediário ) com ênfase em termos técnicos e vocabulário
-relacionado à programação. Suficiente para comunicação efetiva no ambiente de
-desenvolvimento de software.</li>
-      <br> 
-<li>💻 Confira meu <strong><i>Portifólio</i></strong> atual  <a href="https://leandroduk.vercel.app/" target="_blank">Clicando Aqui !!</a> </li> 
- 
-  </ul>
+Atuo com foco em **desenvolvimento Frontend**, dominando o ciclo completo de criação de interfaces: da estrutura semântica ao gerenciamento de estado, com visão de backend para integrar APIs e entender o sistema como um todo.
+
+O que me diferencia não é só o código — é entender o problema antes de escrever a primeira linha.
+
+- 🎯 Foco atual: **React**, **Next.js**, **JavaScript moderno** e **Node.js**
+- 🌐 Inglês técnico funcional para leitura de documentação e comunicação em contextos de desenvolvimento
+- 📂 Portfólio com projetos reais: [devleandro.com.br](https://devleandro.com.br)
+
+---
+
+## Stack Tecnológica
+
+### Frontend
+
+<div align="center">
+  <img height="48" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
- #
-      
-<section align="center">
-  <h2 align="center"> Informações do Perfil:</h2> 
+### Backend & Dados
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroDukievicz&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDukievicz&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDukievicz&theme=tokyonight) |
+<div align="center">
+  <img height="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
+
+### Ferramentas
+
+<div align="center">
+  <img height="48" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;
+  <img height="48" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+</div>
+
+---
+
+## Formação Acadêmica
+
+| Curso | Instituição | Conclusão |
+|---|---|---|
+| Tecnólogo em Sistemas para Internet — Full-Stack | Unicesumar | Jan/2024 |
+| Pós-Graduação — Desenvolvimento de Sistemas em Python | Unicesumar | Mar/2025 |
+| Pós-Graduação — Negócios Digitais e Inovação *(em curso)* | Unicesumar | Jun/2025 → |
+
+> Certificados complementares disponíveis em: [github.com/LeandroDukievicz/CERTIFICATES](https://github.com/LeandroDukievicz/CERTIFICATES)
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroDukievicz&theme=tokyonight) | ![Repos por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDukievicz&hide=Html&theme=tokyonight) | ![Commits por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDukievicz&theme=tokyonight) |
 | :-: | :-: | :-: |
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight) <br><br>
-## :fire:  Status :
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight)
 
-<img src="./profile-3d-contrib/profile-night-view.svg"/>
+<br>
 
+<img src="https://raw.githubusercontent.com/LeandroDukievicz/LeandroDukievicz/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
 
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg">
+</picture>
 
+</div>
 
-      
-<br><br>
+---
 
-<table align="center" border="10px" >
-      <tr>
-            <td><img  height="200em" src="https://github.com/LeandroDukievicz/CERTIFICATES/blob/main/certificate-icon.gif" target="_blank"></td> 
-            <td><p>Estou sempre me atualizando e aprendendo continuamente novas tecnologias,<br> e caso queira conferir um poucos dos cursos ao qual já concluí,<br> é so clicar ao lado, ou conferir os projetos de acordo com <br>a linguagem ou framework logo abaixo !</p></td>
-             <td><a href="https://github.com/LeandroDukievicz/CERTIFICATES"><i><strong>Confira Aqui!</i></strong></a></td> 
-      </tr>
-</table>
+## O que estou construindo agora
 
- 
+- Aprofundamento em **React** — hooks avançados, performance e padrões de composição
+- Estudos em **Python** aplicado — automações, APIs REST com Flask/FastAPI
+- Leitura técnica em inglês como prática contínua
 
+---
 
- <div align="center">
-    <p> Total visits on my profile :detective:</p>
-    <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
- </div>
-          
- #
+## Contato
 
- <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  </picture>
+Se você tem um problema real pra resolver e precisa de alguém que entrega — vamos conversar.
 
-#
- 
- <div align="center">
-     <a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="119" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/SETA-CIMA.gif" target="_blank">
-</div>   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrodukievicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrodukievicz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leandroduk.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leandroduk.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-leandrodukievicz1718@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodukievicz1718@gmail.com)
 
-
-</section>
-
-
-  <p align="center">
-  <img src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/master/github-metrics.svg" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
+<div align="center">
+  <sub>Construído com consistência. Atualizado com propósito.</sub>
+</div>
