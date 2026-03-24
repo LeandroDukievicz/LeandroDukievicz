@@ -104,7 +104,7 @@ O que me diferencia não é só o código — é entender o problema antes de es
 Se você tem um problema real pra resolver e precisa de alguém que entrega — vamos conversar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrodukievicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrodukievicz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-leandroduk.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leandroduk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devleandro.com.br-000?style=for-the-badge&logo=vercel&logoColor=white)](https://devleandro.com.br)
 [![Email](https://img.shields.io/badge/Email-leandrodukievicz1718@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodukievicz1718@gmail.com)
 
 <div align="center">
