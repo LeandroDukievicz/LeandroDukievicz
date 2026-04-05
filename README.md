@@ -2,7 +2,7 @@
 
 # Leandro Dukievicz
 
-### Desenvolvedor Frontend · JavaScript · React · Next · Node
+### Desenvolvedor FullStack · JavaScript · React · Next · Node
 
 </div>
 
