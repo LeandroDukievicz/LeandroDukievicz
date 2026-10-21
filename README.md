@@ -1,112 +1,76 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img alt="Leandro Dukievicz, desenvolvedor full stack. Escrevo o software e coloco no ar." src="./assets/banner-dark.svg" width="100%">
+  </picture>
+</p>
 
-# Leandro Dukievicz
+Desenvolvedor full stack em Maringá, Paraná. Escrevo o software inteiro, da interface ao servidor, e cuido do que vem depois dele: empacotamento, pipeline, deploy e publicação em loja.
 
-### Desenvolvedor FullStack · JavaScript · React · Next · Node
+## Trajetória
 
-</div>
+De 2018 a 2025 fui motorista profissional. Entre 2021 e 2024 cursei Sistemas para Internet na UniCesumar, estudando e programando. Desde maio de 2025 me dedico ao desenvolvimento, com alguns freelas pontuais.
 
----
+## Alguns projetos publicados recentemente
 
-## Sobre
+### Anchor Downloader
+[Snap Store](https://snapcraft.io/anchor-downloader) · [código](https://github.com/LeandroDukievicz/anchor-downloader)
 
-Desenvolvedor com formação técnica em **Sistemas para Internet (Full-Stack)**, pós-graduação em **Desenvolvimento de Sistemas Python** e especialização em andamento em **Negócios Digitais e Inovação** — todos pela Unicesumar.
+Gerenciador de downloads do Telegram em interface de terminal. Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre várias janelas, com limite de taxa global. Os downloads rodam em paralelo e retomam arquivos parciais. Empacotado em snap com confinamento strict e publicado por pipeline no GitHub Actions.
 
-Atuo com foco em **desenvolvimento Frontend**, dominando o ciclo completo de criação de interfaces: da estrutura semântica ao gerenciamento de estado, com visão de backend para integrar APIs e entender o sistema como um todo.
+Cerca de 4.200 linhas, com suíte de testes dedicada a path traversal e permissão de arquivo.
 
-O que me diferencia não é só o código — é entender o problema antes de escrever a primeira linha.
+`Python` `Textual` `asyncio`
 
-- 🎯 Foco atual: **React**, **Next.js**, **JavaScript moderno** e **Node.js**
-- 🌐 Inglês técnico funcional para leitura de documentação e comunicação em contextos de desenvolvimento
-- 📂 Portfólio com projetos reais: [devleandro.com.br](https://devleandro.com.br)
+### Devs à Deriva
+[devsaderiva.com.br](https://devsaderiva.com.br) · [código](https://github.com/LeandroDukievicz/devs-a-deriva)
 
----
+Blog técnico próprio, do texto à infraestrutura. Astro com renderização no servidor, painel de publicação separado e mídia em object storage. Nada vai ao ar sem passar pelo pipeline: lint, typecheck, testes, auditoria de segurança, SEO e checagem de link quebrado.
 
-## Stack Tecnológica
+`Astro` `TypeScript` `Docker` `GitHub Actions`
 
-### Frontend
+### Ferramentas para Linux
 
-<div align="center">
-  <img height="48" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</div>
+O fabricante só entrega software para Windows. Para não precisar de dual boot só para controlar alguns detalhes da máquina, desenvolvi do zero, por engenharia reversa:
 
-### Backend & Dados
+- controle de RGB e refrigeração para notebooks Acer Predator, em GTK4 e libadwaita;
+- painel para teclado mecânico com matriz de LED 65x5, falando HID direto;
+- módulo DKMS para o kernel.
 
-<div align="center">
-  <img height="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+`GTK4` `libadwaita` `HID` `DKMS`
 
-### Ferramentas
+### Dukie Tech
+[techdukie.com.br](https://techdukie.com.br)
 
-<div align="center">
-  <img height="48" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;
-  <img height="48" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-</div>
+Minha operação de desenvolvimento sob medida para pequenas e médias empresas.
 
----
+<details>
+<summary>Outros projetos</summary>
 
-## Formação Acadêmica
+**Cardápio e pedidos em PHP.** Selecionado entre os 10 finalistas do Desafio Nacional UniCesumar, avaliado entre milhares de projetos do país.
 
-| Curso | Instituição | Conclusão |
-|---|---|---|
-| Tecnólogo em Sistemas para Internet — Full-Stack | Unicesumar | Jan/2024 |
-| Pós-Graduação — Desenvolvimento de Sistemas em Python | Unicesumar | Mar/2025 |
-| Pós-Graduação — Negócios Digitais e Inovação *(em curso)* | Unicesumar | Jun/2025 → |
+**Código aberto.** Contribuições em projetos de terceiros: [Rede-ENois/enois-frontend#102](https://github.com/Rede-ENois/enois-frontend/pull/102), [JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module#308](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/pull/308)
 
-> Certificados complementares disponíveis em: [github.com/LeandroDukievicz/CERTIFICATES](https://github.com/LeandroDukievicz/CERTIFICATES)
+</details>
 
----
+## Stack
 
-## Estatísticas do GitHub
+Na ordem em que aparece no trabalho.
 
-<div align="center">
+**Produto**<br>
+`TypeScript` `React` `Next.js` `Astro` `JavaScript` `Python` `Node.js` `PHP` `SQL`
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroDukievicz&theme=tokyonight) | ![Repos por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroDukievicz&hide=Html&theme=tokyonight) | ![Commits por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroDukievicz&theme=tokyonight) |
-| :-: | :-: | :-: |
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroDukievicz&theme=tokyonight)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/LeandroDukievicz/LeandroDukievicz/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://github.com/LeandroDukievicz/LeandroDukievicz/raw/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## O que estou construindo agora
-
-- Aprofundamento em **React** — hooks avançados, performance e padrões de composição
-- Estudos em **Python** aplicado — automações, APIs REST com Flask/FastAPI
-- Leitura técnica em inglês como prática contínua
-
----
+**Sistema e entrega**<br>
+`Linux` `Docker` `CI/CD` `Git`
 
 ## Contato
 
-Se você tem um problema real pra resolver e precisa de alguém que entrega — vamos conversar.
+| | |
+|---|---|
+| Portfólio | [devleandro.com.br](https://devleandro.com.br) |
+| Blog | [devsaderiva.com.br](https://devsaderiva.com.br) |
+| Dukie Tech | [techdukie.com.br](https://techdukie.com.br) |
+| LinkedIn | [linkedin.com/in/leandrodukievicz](https://www.linkedin.com/in/leandrodukievicz) |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-leandrodukievicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrodukievicz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devleandro.com.br-000?style=for-the-badge&logo=vercel&logoColor=white)](https://devleandro.com.br)
-[![Email](https://img.shields.io/badge/Email-leandrodukievicz1718@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrodukievicz1718@gmail.com)
-
-<div align="center">
-  <sub>Construído com consistência. Atualizado com propósito.</sub>
-</div>
+<p align="center"><sub>Maringá, PR · README em Markdown e SVG, sem widget de terceiros</sub></p>
