@@ -1,10 +1,7 @@
 <p align="center">
-  <picture>
-    <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/banner-m-dark.svg">
-    <source media="(max-width: 500px)" srcset="./assets/banner-m-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img alt="Leandro Dukievicz, desenvolvedor full stack. Escrevo o software e coloco no ar." src="./assets/banner-light.svg" width="100%">
-  </picture>
+<picture>
+<img alt="Leandro Dukievicz" src="./assets/banner.svg" width="100%">
+</picture>
 </p>
 
 Desenvolvedor full stack em Maringá, Paraná. Escrevo o software inteiro, da interface ao servidor, e cuido do que vem depois dele: empacotamento, pipeline, deploy e publicação em loja.
@@ -15,98 +12,59 @@ De 2018 a 2025 fui motorista profissional. Entre 2021 e 2024 cursei Sistemas par
 
 ## Alguns projetos publicados recentemente
 
-<p align="center">
-<a href="https://snapcraft.io/anchor-downloader"><picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-anchor-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/card-anchor-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/card-anchor-dark.svg">
-<img alt="Anchor Downloader: Gerenciador de downloads do Telegram em interface de terminal. Abre snapcraft.io/anchor-downloader." src="./assets/card-anchor-light.svg" width="100%">
-</picture></a>
-</p>
+### [Anchor Downloader](https://snapcraft.io/anchor-downloader)
 
-Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre várias janelas, com limite de taxa global. Os downloads rodam em paralelo e retomam arquivos parciais. Empacotado em snap com confinamento strict e publicado por pipeline no GitHub Actions. Cerca de 4.200 linhas, com suíte de testes dedicada a path traversal e permissão de arquivo. [Código no GitHub](https://github.com/LeandroDukievicz/anchor-downloader).
+`python` `textual` `asyncio` `snap` · publicado na snap store
+
+Gerenciador de downloads do Telegram em interface de terminal. Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre várias janelas, com limite de taxa global. Os downloads rodam em paralelo e retomam arquivos parciais. Empacotado em snap com confinamento strict e publicado por pipeline no GitHub Actions. Cerca de 4.200 linhas, com suíte de testes dedicada a path traversal e permissão de arquivo. [Código no GitHub](https://github.com/LeandroDukievicz/anchor-downloader).
 
 <p align="center">
 <picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-<img alt="" src="./assets/rule-light.svg" width="100%">
+<img alt="" src="./assets/rule.svg" width="100%" height="2">
 </picture>
 </p>
 
-<p align="center">
-<a href="https://devsaderiva.com.br"><picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-deriva-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/card-deriva-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/card-deriva-dark.svg">
-<img alt="Devs à Deriva: Blog técnico próprio, do texto à infraestrutura. Abre devsaderiva.com.br." src="./assets/card-deriva-light.svg" width="100%">
-</picture></a>
-</p>
+### [Devs à Deriva](https://devsaderiva.com.br)
 
-Astro com renderização no servidor, painel de publicação separado e mídia em object storage. Nada vai ao ar sem passar pelo pipeline: lint, typecheck, testes, auditoria de segurança, SEO e checagem de link quebrado. [Código no GitHub](https://github.com/LeandroDukievicz/devs-a-deriva).
+`astro` `typescript` `docker` `github actions` · no ar
+
+Blog técnico próprio, do texto à infraestrutura. Astro com renderização no servidor, painel de publicação separado e mídia em object storage. Nada vai ao ar sem passar pelo pipeline: lint, typecheck, testes, auditoria de segurança, SEO e checagem de link quebrado. [Código no GitHub](https://github.com/LeandroDukievicz/devs-a-deriva).
 
 <p align="center">
 <picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-<img alt="" src="./assets/rule-light.svg" width="100%">
+<img alt="" src="./assets/rule.svg" width="100%" height="2">
 </picture>
 </p>
 
-O fabricante só entrega software para Windows. Para não precisar de dual boot só para controlar alguns detalhes da máquina, desenvolvi os dois do zero, por engenharia reversa.
+### [ControlFanRGB](https://github.com/LeandroDukievicz/ControlFanRGB)
 
-<p align="center">
-<a href="https://github.com/LeandroDukievicz/ControlFanRGB"><picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-controlfanrgb-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/card-controlfanrgb-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/card-controlfanrgb-dark.svg">
-<img alt="ControlFanRGB: RGB e refrigeração para Acer Predator, por engenharia reversa. Abre github.com/LeandroDukievicz/ControlFanRGB." src="./assets/card-controlfanrgb-light.svg" width="100%">
-</picture></a>
-</p>
+`python` `gtk4` `libadwaita` `d-bus` · em desenvolvimento
 
-Aplicativo GTK4 com libadwaita e daemon em D-Bus, mais patch do módulo de kernel, para liberar no Linux o que a Acer só expõe pelo utilitário de Windows.
+RGB e refrigeração para Acer Predator. A Acer só entrega utilitário para Windows, então desenvolvi do zero, por engenharia reversa, para não precisar de dual boot só para controlar alguns detalhes da máquina. Aplicativo GTK4 com libadwaita e daemon em D-Bus, mais patch do módulo de kernel.
 
 <p align="center">
 <picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-<img alt="" src="./assets/rule-light.svg" width="100%">
+<img alt="" src="./assets/rule.svg" width="100%" height="2">
 </picture>
 </p>
 
-<p align="center">
-<a href="https://github.com/LeandroDukievicz/mk-k68-lightsmart"><picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-mkk68-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/card-mkk68-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/card-mkk68-dark.svg">
-<img alt="MK-K68 LightSmart: Teclado mecânico com matriz de LED 65x5, falando HID direto. Abre github.com/LeandroDukievicz/mk-k68-lightsmart." src="./assets/card-mkk68-light.svg" width="100%">
-</picture></a>
-</p>
+### [MK-K68 LightSmart](https://github.com/LeandroDukievicz/mk-k68-lightsmart)
 
-Protocolo HID do fabricante levantado por engenharia reversa do driver de Windows. Painel em PySide6 para a matriz de LED e para a iluminação, com as animações enviadas ao teclado.
+`python` `pyside6` `hid` `snap` · em desenvolvimento
+
+Teclado mecânico com matriz de LED 65x5, falando HID direto. Protocolo do fabricante levantado por engenharia reversa do driver de Windows, que é o único que existe. Painel em PySide6 para a matriz de LED e para a iluminação, com as animações enviadas ao teclado.
 
 <p align="center">
 <picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
-<img alt="" src="./assets/rule-light.svg" width="100%">
+<img alt="" src="./assets/rule.svg" width="100%" height="2">
 </picture>
 </p>
 
-<p align="center">
-<a href="https://techdukie.com.br"><picture>
-<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-dukietech-m-dark.svg">
-<source media="(max-width: 500px)" srcset="./assets/card-dukietech-m-light.svg">
-<source media="(prefers-color-scheme: dark)" srcset="./assets/card-dukietech-dark.svg">
-<img alt="Dukie Tech: Software web e mobile sob medida. Abre techdukie.com.br." src="./assets/card-dukietech-light.svg" width="100%">
-</picture></a>
-</p>
+### [Dukie Tech](https://techdukie.com.br)
 
-Minha operação de desenvolvimento para pequenas e médias empresas: levanto o problema, escrevo o sistema e cuido dele depois que entra no ar.
+`next.js` `react` `typescript` `tailwind` · no ar
+
+Software web e mobile sob medida. Minha operação de desenvolvimento para pequenas e médias empresas: levanto o problema, escrevo o sistema e cuido dele depois que entra no ar.
 
 <details>
 <summary>Outros projetos</summary>
