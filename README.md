@@ -4,6 +4,13 @@
 </picture>
 </p>
 
+<p align="center">
+<strong><a href="https://devleandro.com.br">Portfólio</a></strong>&nbsp; ·&nbsp;
+<strong><a href="https://devsaderiva.com.br">Blog</a></strong>&nbsp; ·&nbsp;
+<strong><a href="https://techdukie.com.br">Dukie Tech</a></strong>&nbsp; ·&nbsp;
+<strong><a href="https://www.linkedin.com/in/leandrodukievicz">LinkedIn</a></strong>
+</p>
+
 Desenvolvedor full stack em Maringá, Paraná. Escrevo o software inteiro, da interface ao servidor, e cuido do que vem depois dele: empacotamento, pipeline, deploy e publicação em loja.
 
 ## Trajetória
@@ -84,14 +91,5 @@ Na ordem em que aparece no trabalho.
 
 **Sistema e entrega**<br>
 `Linux` `Docker` `CI/CD` `Git`
-
-## Contato
-
-| | |
-|---|---|
-| Portfólio | [devleandro.com.br](https://devleandro.com.br) |
-| Blog | [devsaderiva.com.br](https://devsaderiva.com.br) |
-| Dukie Tech | [techdukie.com.br](https://techdukie.com.br) |
-| LinkedIn | [linkedin.com/in/leandrodukievicz](https://www.linkedin.com/in/leandrodukievicz) |
 
 <p align="center"><sub>Maringá, PR · README em Markdown e SVG, sem widget de terceiros</sub></p>
