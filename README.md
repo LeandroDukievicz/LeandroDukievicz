@@ -14,36 +14,62 @@ De 2018 a 2025 fui motorista profissional. Entre 2021 e 2024 cursei Sistemas par
 
 ## Alguns projetos publicados recentemente
 
-### Anchor Downloader
-[Snap Store](https://snapcraft.io/anchor-downloader) · [código](https://github.com/LeandroDukievicz/anchor-downloader)
+<p align="center">
+<a href="https://snapcraft.io/anchor-downloader"><picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-anchor-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/card-anchor-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/card-anchor-dark.svg">
+<img alt="Anchor Downloader: Gerenciador de downloads do Telegram em interface de terminal. Abre snapcraft.io/anchor-downloader." src="./assets/card-anchor-light.svg" width="100%">
+</picture></a>
+</p>
 
-Gerenciador de downloads do Telegram em interface de terminal. Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre várias janelas, com limite de taxa global. Os downloads rodam em paralelo e retomam arquivos parciais. Empacotado em snap com confinamento strict e publicado por pipeline no GitHub Actions.
+Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre várias janelas, com limite de taxa global. Os downloads rodam em paralelo e retomam arquivos parciais. Empacotado em snap com confinamento strict e publicado por pipeline no GitHub Actions. Cerca de 4.200 linhas, com suíte de testes dedicada a path traversal e permissão de arquivo. [Código no GitHub](https://github.com/LeandroDukievicz/anchor-downloader).
 
-Cerca de 4.200 linhas, com suíte de testes dedicada a path traversal e permissão de arquivo.
+<p align="center">
+<a href="https://devsaderiva.com.br"><picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-deriva-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/card-deriva-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/card-deriva-dark.svg">
+<img alt="Devs à Deriva: Blog técnico próprio, do texto à infraestrutura. Abre devsaderiva.com.br." src="./assets/card-deriva-light.svg" width="100%">
+</picture></a>
+</p>
 
-`Python` `Textual` `asyncio`
+Astro com renderização no servidor, painel de publicação separado e mídia em object storage. Nada vai ao ar sem passar pelo pipeline: lint, typecheck, testes, auditoria de segurança, SEO e checagem de link quebrado. [Código no GitHub](https://github.com/LeandroDukievicz/devs-a-deriva).
 
-### Devs à Deriva
-[devsaderiva.com.br](https://devsaderiva.com.br) · [código](https://github.com/LeandroDukievicz/devs-a-deriva)
+O fabricante só entrega software para Windows. Para não precisar de dual boot só para controlar alguns detalhes da máquina, desenvolvi os dois do zero, por engenharia reversa.
 
-Blog técnico próprio, do texto à infraestrutura. Astro com renderização no servidor, painel de publicação separado e mídia em object storage. Nada vai ao ar sem passar pelo pipeline: lint, typecheck, testes, auditoria de segurança, SEO e checagem de link quebrado.
+<p align="center">
+<a href="https://github.com/LeandroDukievicz/ControlFanRGB"><picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-controlfanrgb-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/card-controlfanrgb-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/card-controlfanrgb-dark.svg">
+<img alt="ControlFanRGB: RGB e refrigeração para Acer Predator, por engenharia reversa. Abre github.com/LeandroDukievicz/ControlFanRGB." src="./assets/card-controlfanrgb-light.svg" width="100%">
+</picture></a>
+</p>
 
-`Astro` `TypeScript` `Docker` `GitHub Actions`
+Aplicativo GTK4 com libadwaita e daemon em D-Bus, mais patch do módulo de kernel, para liberar no Linux o que a Acer só expõe pelo utilitário de Windows.
 
-### Ferramentas para Linux
+<p align="center">
+<a href="https://github.com/LeandroDukievicz/mk-k68-lightsmart"><picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-mkk68-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/card-mkk68-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/card-mkk68-dark.svg">
+<img alt="MK-K68 LightSmart: Teclado mecânico com matriz de LED 65x5, falando HID direto. Abre github.com/LeandroDukievicz/mk-k68-lightsmart." src="./assets/card-mkk68-light.svg" width="100%">
+</picture></a>
+</p>
 
-O fabricante só entrega software para Windows. Para não precisar de dual boot só para controlar alguns detalhes da máquina, desenvolvi do zero, por engenharia reversa:
+Protocolo HID do fabricante levantado por engenharia reversa do driver de Windows. Painel em PySide6 para a matriz de LED e para a iluminação, com as animações enviadas ao teclado.
 
-- controle de RGB e refrigeração para notebooks Acer Predator, em GTK4 e libadwaita;
-- painel para teclado mecânico com matriz de LED 65x5, falando HID direto;
-- módulo DKMS para o kernel.
+<p align="center">
+<a href="https://techdukie.com.br"><picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-dukietech-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/card-dukietech-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/card-dukietech-dark.svg">
+<img alt="Dukie Tech: Software web e mobile sob medida. Abre techdukie.com.br." src="./assets/card-dukietech-light.svg" width="100%">
+</picture></a>
+</p>
 
-`GTK4` `libadwaita` `HID` `DKMS`
-
-### Dukie Tech
-[techdukie.com.br](https://techdukie.com.br)
-
-Minha operação de desenvolvimento sob medida para pequenas e médias empresas.
+Minha operação de desenvolvimento para pequenas e médias empresas: levanto o problema, escrevo o sistema e cuido dele depois que entra no ar.
 
 <details>
 <summary>Outros projetos</summary>
