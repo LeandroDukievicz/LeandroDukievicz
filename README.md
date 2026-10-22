@@ -1,8 +1,9 @@
 <p align="center">
   <picture>
+    <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/banner-m-dark.svg">
+    <source media="(max-width: 500px)" srcset="./assets/banner-m-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Leandro Dukievicz, desenvolvedor full stack. Escrevo o software e coloco no ar." src="./assets/banner-dark.svg" width="100%">
+    <img alt="Leandro Dukievicz, desenvolvedor full stack. Escrevo o software e coloco no ar." src="./assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
