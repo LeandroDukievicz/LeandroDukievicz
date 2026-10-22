@@ -27,6 +27,15 @@ De 2018 a 2025 fui motorista profissional. Entre 2021 e 2024 cursei Sistemas par
 Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre várias janelas, com limite de taxa global. Os downloads rodam em paralelo e retomam arquivos parciais. Empacotado em snap com confinamento strict e publicado por pipeline no GitHub Actions. Cerca de 4.200 linhas, com suíte de testes dedicada a path traversal e permissão de arquivo. [Código no GitHub](https://github.com/LeandroDukievicz/anchor-downloader).
 
 <p align="center">
+<picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
+<img alt="" src="./assets/rule-light.svg" width="100%">
+</picture>
+</p>
+
+<p align="center">
 <a href="https://devsaderiva.com.br"><picture>
 <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-deriva-m-dark.svg">
 <source media="(max-width: 500px)" srcset="./assets/card-deriva-m-light.svg">
@@ -36,6 +45,15 @@ Um broker próprio em socket `AF_UNIX` compartilha uma única conexão entre vá
 </p>
 
 Astro com renderização no servidor, painel de publicação separado e mídia em object storage. Nada vai ao ar sem passar pelo pipeline: lint, typecheck, testes, auditoria de segurança, SEO e checagem de link quebrado. [Código no GitHub](https://github.com/LeandroDukievicz/devs-a-deriva).
+
+<p align="center">
+<picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
+<img alt="" src="./assets/rule-light.svg" width="100%">
+</picture>
+</p>
 
 O fabricante só entrega software para Windows. Para não precisar de dual boot só para controlar alguns detalhes da máquina, desenvolvi os dois do zero, por engenharia reversa.
 
@@ -51,6 +69,15 @@ O fabricante só entrega software para Windows. Para não precisar de dual boot 
 Aplicativo GTK4 com libadwaita e daemon em D-Bus, mais patch do módulo de kernel, para liberar no Linux o que a Acer só expõe pelo utilitário de Windows.
 
 <p align="center">
+<picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
+<img alt="" src="./assets/rule-light.svg" width="100%">
+</picture>
+</p>
+
+<p align="center">
 <a href="https://github.com/LeandroDukievicz/mk-k68-lightsmart"><picture>
 <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/card-mkk68-m-dark.svg">
 <source media="(max-width: 500px)" srcset="./assets/card-mkk68-m-light.svg">
@@ -60,6 +87,15 @@ Aplicativo GTK4 com libadwaita e daemon em D-Bus, mais patch do módulo de kerne
 </p>
 
 Protocolo HID do fabricante levantado por engenharia reversa do driver de Windows. Painel em PySide6 para a matriz de LED e para a iluminação, com as animações enviadas ao teclado.
+
+<p align="center">
+<picture>
+<source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="./assets/rule-m-dark.svg">
+<source media="(max-width: 500px)" srcset="./assets/rule-m-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
+<img alt="" src="./assets/rule-light.svg" width="100%">
+</picture>
+</p>
 
 <p align="center">
 <a href="https://techdukie.com.br"><picture>
